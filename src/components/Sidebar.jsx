@@ -237,7 +237,9 @@ align-items: center;
 
 const Divisor = styled.div`
   height: 1px;
-  width: 100%;
-  background: ${(props) => props.theme.bg3};
+  width: 80%;
+
+  background:  ${({theme}) => theme.bg3};
   margin: ${v.mdSpacing} 0;
+  margin: 10px auto;
 `;

@@ -17,6 +17,7 @@ export const Light = {
   bgAlpha: "rgba(250,250,250,.3)",
   bg2: "rgb(245,245,245)",
   bg3: "rgb(213, 193, 241)",
+  
   text: "rgb(48, 47, 47)",
   primary: "rgb(52, 131, 235)",
   bg4: " #9247FC",
@@ -25,6 +26,8 @@ export const Light = {
   barrascroll: "rgb(160, 39, 39)",
   bg5: "rgb(145, 76, 202)",
   bg6: "rgb(224, 224, 224)",
+  bg7: "rgb(221, 219, 219)",
+
 
   gray900: " #000000",
   gray800: " #1f1f1f",
