@@ -1,7 +1,7 @@
 import styled from "styled-components";
 import React from "react";
 import logo from "../assets/logo.png";
-import { v } from "../styles/Variables";
+import { v } from "../styles/variables.jsx";
 import { FaAngleLeft } from "react-icons/fa";
 import { FaHome } from "react-icons/fa";
 import { FaUser } from "react-icons/fa";

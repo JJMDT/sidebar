@@ -49,7 +49,7 @@ export const Light = {
     "linear-gradient(-225deg,rgb(247, 234, 253) 0%, #FFE6FA 100%)",
   lightcheckbox: " #fce100",
   imgFilter: "none",
-  height: "100%",
+  height: "100%"
 
 
 };
@@ -103,5 +103,5 @@ export const Dark = {
   darkcheckbox: " #757575",
   bgtgderecha: "rgba(108, 106, 110, 0.73)",
   imgFilter: "invert(100%)",
-  height: "100%",
+  height: "100%"
 };
