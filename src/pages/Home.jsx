@@ -12,6 +12,8 @@ export function Home() {
 const Container = styled.div`
   height: 100%;
 background: ${({ theme }) => theme.lightbackground};
+  padding-top: 20px;
+
 .titulo {
   display: flex;
   justify-content: center;

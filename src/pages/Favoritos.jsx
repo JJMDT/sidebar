@@ -18,6 +18,8 @@ export function Favoritos () {
 const Container = styled.div`
   height: 100vh;
 background: ${({ theme }) => theme.lightbackground};
+  padding-top: 20px;
+
 .titulo {
   display: flex;
   justify-content: center;

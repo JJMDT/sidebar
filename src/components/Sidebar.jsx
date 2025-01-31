@@ -89,7 +89,7 @@ const linksArray = [
     to: "/",
   },
   {
-    label: "User",
+    label: "Profile",
     icon: <FaUser />,
     to: "/perfil",
   },
@@ -136,7 +136,7 @@ const Container = styled.div`
   .sidebarButton {
     position: absolute;
     top: ${v.xxlSpacing};
-    right: -18px;
+    right: -20px;
     width: 32px;
     height: 32px;
     border-radius: 50%;

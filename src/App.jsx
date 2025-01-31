@@ -67,8 +67,12 @@ const Container = styled.div`
   display: grid;
   grid-template-columns: 90px auto;
   background: ${({ theme }) => theme.bgtotal};
+  background: ${({ theme }) => theme.lightbackground};
+  height: 100vh;
+  max-height: 100vh;
+  overflow-y: auto;  // Permite scroll vertical si el contenido excede
   transition: all 0.3s;
-
+  
   &.active {
     grid-template-columns: 300px auto;
   }
